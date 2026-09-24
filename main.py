@@ -20,6 +20,8 @@ client = WebClient(token, ssl=ssl_context)
 
 def delta(old, new, field):
     if old[field] != new[field]:
+        if field == 'description':
+            return f"*old description:* {old[field]}\n*new description:* {new[field]}"
         return f"{old[field]} → {new[field]}"
     else:
         return old[field]
