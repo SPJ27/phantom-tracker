@@ -21,7 +21,7 @@
             "name": "tech"
         }
     ],
-    "count": 28,
+    "count": 29,
     "products": [
         {
             "slug": "flight-stipend",
@@ -386,6 +386,33 @@
                 "varies": false
             },
             "imageUrl": "https://cdn.hackclub.com/01a0c1c2-0cf4-7065-a884-164e2c6e1ad3/image.png",
+            "images": [],
+            "stock": null,
+            "perUserLimit": null,
+            "requiresEligibility": true,
+            "pinned": false,
+            "options": [],
+            "availableFrom": null,
+            "availableUntil": null,
+            "available": true,
+            "unavailableReason": null
+        },
+        {
+            "slug": "unbeatable",
+            "name": "unbeatable",
+            "description": "silly rhythm game with an amazing artstyle!!",
+            "kind": "digital",
+            "category": {
+                "slug": "games",
+                "name": "games"
+            },
+            "priceHours": 8,
+            "priceRangeHours": {
+                "min": 8,
+                "max": 8,
+                "varies": false
+            },
+            "imageUrl": "https://cdn.hackclub.com/01a0d4a1-36ce-7be3-be9d-0dcfc0d21cba/unbeatable.jpg",
             "images": [],
             "stock": null,
             "perUserLimit": null,
