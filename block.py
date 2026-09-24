@@ -1,4 +1,4 @@
-def create_block(title, desc, price_delta, available, type, img_url):
+def create_block(title, desc, price_delta, available, type, img_url, new=False, deleted=False):
     emoji = ''
     match type:
         case 'games':
@@ -9,6 +9,10 @@ def create_block(title, desc, price_delta, available, type, img_url):
             emoji = ':ghost-shirt:'
         case 'tech':
             emoji = ':ghost-laptopfire:'
+        case 'Uncategorized':
+            emoji = ''
+
+    
     return [
         {
             "type": "divider"
@@ -17,7 +21,7 @@ def create_block(title, desc, price_delta, available, type, img_url):
             "type": "header",
             "text": {
                 "type": "plain_text",
-                "text": title,
+                "text": f"{':ghost-trash:' if deleted else ':ghost-new:' if new else ''} {title}",
                 "emoji": True
             }
         },
