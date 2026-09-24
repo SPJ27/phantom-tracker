@@ -21,7 +21,7 @@
             "name": "tech"
         }
     ],
-    "count": 29,
+    "count": 30,
     "products": [
         {
             "slug": "flight-stipend",
@@ -332,6 +332,33 @@
                 "varies": false
             },
             "imageUrl": "https://cdn.hackclub.com/01a0c1bb-822b-7e59-b8a7-ff1dd82d7e8a/image.png",
+            "images": [],
+            "stock": null,
+            "perUserLimit": null,
+            "requiresEligibility": true,
+            "pinned": false,
+            "options": [],
+            "availableFrom": null,
+            "availableUntil": null,
+            "available": true,
+            "unavailableReason": null
+        },
+        {
+            "slug": "blue-prince",
+            "name": "blue prince",
+            "description": "a roguelike escape room... might be relevant",
+            "kind": "digital",
+            "category": {
+                "slug": "games",
+                "name": "games"
+            },
+            "priceHours": 8,
+            "priceRangeHours": {
+                "min": 8,
+                "max": 8,
+                "varies": false
+            },
+            "imageUrl": "https://cdn.hackclub.com/01a0d4bc-b05a-7f7e-b94d-644b41ea7e17/blue_prince.jpg",
             "images": [],
             "stock": null,
             "perUserLimit": null,

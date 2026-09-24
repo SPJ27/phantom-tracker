@@ -111,7 +111,7 @@ while True:
         category = new_products[update].get('category')
         category_name = category['name'] if category else 'Uncategorized'
         imageUrl = delta(old_products[update], new_products[update], 'imageUrl')
-        block = create_block(name, desc, price, available, category_name, imageUrl)
+        block = create_block(name, desc, f"{price} hrs", available, category_name, imageUrl)
         send_message(block)
 
     with open('snapshot.json', 'w') as snapshot_json:
