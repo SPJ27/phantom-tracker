@@ -1,0 +1,1140 @@
+{
+    "shop": {
+        "open": true,
+        "closesAt": null
+    },
+    "categories": [
+        {
+            "slug": "games",
+            "name": "games"
+        },
+        {
+            "slug": "grants",
+            "name": "grants"
+        },
+        {
+            "slug": "merch",
+            "name": "merch"
+        },
+        {
+            "slug": "tech",
+            "name": "tech"
+        }
+    ],
+    "count": 28,
+    "products": [
+        {
+            "slug": "flight-stipend",
+            "name": "flight stipend to phantom",
+            "description": "covers flights, visas, and more, to get you to philadelphia! (1 hour = $8 USD)",
+            "kind": "digital",
+            "category": {
+                "slug": "grants",
+                "name": "grants"
+            },
+            "priceHours": 1,
+            "priceRangeHours": {
+                "min": 1,
+                "max": 1,
+                "varies": false
+            },
+            "imageUrl": "https://cdn.hackclub.com/019db788-3d2d-75f9-a939-c9ce618dc449/image.png",
+            "images": [],
+            "stock": null,
+            "perUserLimit": null,
+            "requiresEligibility": true,
+            "pinned": false,
+            "options": [],
+            "availableFrom": null,
+            "availableUntil": null,
+            "available": true,
+            "unavailableReason": null
+        },
+        {
+            "slug": "hardware-grant",
+            "name": "hardware grant",
+            "description": "five dollars towards stuff for your hardware projects! stack as many as you need.",
+            "kind": "digital",
+            "category": {
+                "slug": "grants",
+                "name": "grants"
+            },
+            "priceHours": 1,
+            "priceRangeHours": {
+                "min": 1,
+                "max": 1,
+                "varies": false
+            },
+            "imageUrl": "https://cdn.hackclub.com/01a0a876-352a-7dd9-84a6-69ae8f43dda7/hardware-grant.png",
+            "images": [],
+            "stock": null,
+            "perUserLimit": null,
+            "requiresEligibility": true,
+            "pinned": false,
+            "options": [],
+            "availableFrom": null,
+            "availableUntil": null,
+            "available": true,
+            "unavailableReason": null
+        },
+        {
+            "slug": "3d-printing-credits",
+            "name": "3d printing credits",
+            "description": "$10 of prusa or bambu lab credit, for that one enclosure you keep putting off.",
+            "kind": "digital",
+            "category": {
+                "slug": "grants",
+                "name": "grants"
+            },
+            "priceHours": 2,
+            "priceRangeHours": {
+                "min": 2,
+                "max": 2,
+                "varies": false
+            },
+            "imageUrl": "https://cdn.hackclub.com/01a0a876-4466-78e6-96e3-8e4033375f33/print3d.png",
+            "images": [],
+            "stock": null,
+            "perUserLimit": null,
+            "requiresEligibility": true,
+            "pinned": false,
+            "options": [],
+            "availableFrom": null,
+            "availableUntil": null,
+            "available": true,
+            "unavailableReason": null
+        },
+        {
+            "slug": "ai-credits",
+            "name": "ai credits",
+            "description": "$10 worth of ai credits! you better not submit ai projects though",
+            "kind": "digital",
+            "category": {
+                "slug": "grants",
+                "name": "grants"
+            },
+            "priceHours": 2,
+            "priceRangeHours": {
+                "min": 2,
+                "max": 2,
+                "varies": false
+            },
+            "imageUrl": "https://cdn.hackclub.com/01a0bc20-7c58-7231-a1ac-49a2fbc42130/image.png",
+            "images": [],
+            "stock": null,
+            "perUserLimit": null,
+            "requiresEligibility": true,
+            "pinned": false,
+            "options": [],
+            "availableFrom": null,
+            "availableUntil": null,
+            "available": true,
+            "unavailableReason": null
+        },
+        {
+            "slug": "free-domain",
+            "name": "free domain",
+            "description": "a $10 grant to register any domain! host your dream website (or ai slop)",
+            "kind": "digital",
+            "category": {
+                "slug": "grants",
+                "name": "grants"
+            },
+            "priceHours": 2,
+            "priceRangeHours": {
+                "min": 2,
+                "max": 2,
+                "varies": false
+            },
+            "imageUrl": "https://cdn.hackclub.com/01a0a876-3119-74bd-aa58-35e46f360b7a/domain.png",
+            "images": [],
+            "stock": null,
+            "perUserLimit": 1,
+            "requiresEligibility": true,
+            "pinned": false,
+            "options": [],
+            "availableFrom": null,
+            "availableUntil": null,
+            "available": true,
+            "unavailableReason": null
+        },
+        {
+            "slug": "balatro",
+            "name": "balatro",
+            "description": "shoutout localthunk for inspiring gambling addictions early",
+            "kind": "digital",
+            "category": {
+                "slug": "games",
+                "name": "games"
+            },
+            "priceHours": 4,
+            "priceRangeHours": {
+                "min": 4,
+                "max": 4,
+                "varies": false
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/en/8/89/Balatro_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+            "images": [],
+            "stock": null,
+            "perUserLimit": null,
+            "requiresEligibility": true,
+            "pinned": false,
+            "options": [],
+            "availableFrom": null,
+            "availableUntil": null,
+            "available": true,
+            "unavailableReason": null
+        },
+        {
+            "slug": "blahaj",
+            "name": "bl\u00e5haj",
+            "description": "your own personal shonk friend!",
+            "kind": "physical",
+            "category": {
+                "slug": "merch",
+                "name": "merch"
+            },
+            "priceHours": 4,
+            "priceRangeHours": {
+                "min": 4,
+                "max": 8,
+                "varies": true
+            },
+            "imageUrl": "https://cdn.hackclub.com/01a0c4e1-4cef-7cde-94de-81bda0812134/image-removebg-preview%20(7).png",
+            "images": [
+                "https://cdn.hackclub.com/01a09eb9-6e05-7d61-91eb-30676fcdc215/image.png"
+            ],
+            "stock": null,
+            "perUserLimit": null,
+            "requiresEligibility": true,
+            "pinned": false,
+            "options": [
+                {
+                    "type": "select",
+                    "key": "size",
+                    "label": "size",
+                    "required": true,
+                    "choices": [
+                        {
+                            "value": "small",
+                            "label": "small",
+                            "image": "https://cdn.hackclub.com/01a0c4e1-4cef-7cde-94de-81bda0812134/image-removebg-preview%20(7).png",
+                            "extraHours": 0
+                        },
+                        {
+                            "value": "large",
+                            "label": "large",
+                            "image": "https://cdn.hackclub.com/01a09eb9-6e05-7d61-91eb-30676fcdc215/image.png",
+                            "extraHours": 4
+                        }
+                    ]
+                }
+            ],
+            "availableFrom": null,
+            "availableUntil": null,
+            "available": true,
+            "unavailableReason": null
+        },
+        {
+            "slug": "steam-gog-gift-card",
+            "name": "steam/gog gift card",
+            "description": "$10 for video games on steam or gog.com! no, you can't use this on any other website.",
+            "kind": "digital",
+            "category": {
+                "slug": "grants",
+                "name": "grants"
+            },
+            "priceHours": 4,
+            "priceRangeHours": {
+                "min": 4,
+                "max": 4,
+                "varies": false
+            },
+            "imageUrl": "https://cdn.hackclub.com/019e1eff-862b-7ebf-868b-7ed5ac4fd3cf/image.png",
+            "images": [],
+            "stock": null,
+            "perUserLimit": null,
+            "requiresEligibility": true,
+            "pinned": false,
+            "options": [],
+            "availableFrom": null,
+            "availableUntil": null,
+            "available": true,
+            "unavailableReason": null
+        },
+        {
+            "slug": "chants-of-sennaar",
+            "name": "chants of sennaar",
+            "description": "one of sana's favorite games - and a very good puzzle adventure! you could train for phantom?",
+            "kind": "digital",
+            "category": {
+                "slug": "games",
+                "name": "games"
+            },
+            "priceHours": 6,
+            "priceRangeHours": {
+                "min": 6,
+                "max": 6,
+                "varies": false
+            },
+            "imageUrl": "https://cdn.hackclub.com/01a0c1b1-d6f9-70b0-a859-ca17ef2a6d24/image.png",
+            "images": [],
+            "stock": null,
+            "perUserLimit": null,
+            "requiresEligibility": true,
+            "pinned": false,
+            "options": [],
+            "availableFrom": null,
+            "availableUntil": null,
+            "available": true,
+            "unavailableReason": null
+        },
+        {
+            "slug": "the-phantom-of-the-opera",
+            "name": "the phantom of the opera",
+            "description": "your very own copy of the \"phaAaaaaAAaaaAaaaaAaantom of the opera\" by gaston leroux",
+            "kind": "physical",
+            "category": {
+                "slug": "merch",
+                "name": "merch"
+            },
+            "priceHours": 6,
+            "priceRangeHours": {
+                "min": 6,
+                "max": 6,
+                "varies": false
+            },
+            "imageUrl": "https://user-cdn.hackclub-assets.com/01a0b556-d085-750c-83ba-1047a8b13cb3/untitled_design__1_.png",
+            "images": [],
+            "stock": null,
+            "perUserLimit": null,
+            "requiresEligibility": true,
+            "pinned": false,
+            "options": [],
+            "availableFrom": null,
+            "availableUntil": null,
+            "available": true,
+            "unavailableReason": null
+        },
+        {
+            "slug": "hades",
+            "name": "hades",
+            "description": "one of stelle & sana's favorite games! an action-packed roguelike where you literally fight through hell",
+            "kind": "digital",
+            "category": {
+                "slug": "games",
+                "name": "games"
+            },
+            "priceHours": 7,
+            "priceRangeHours": {
+                "min": 7,
+                "max": 7,
+                "varies": false
+            },
+            "imageUrl": "https://cdn.hackclub.com/01a0c1bb-822b-7e59-b8a7-ff1dd82d7e8a/image.png",
+            "images": [],
+            "stock": null,
+            "perUserLimit": null,
+            "requiresEligibility": true,
+            "pinned": false,
+            "options": [],
+            "availableFrom": null,
+            "availableUntil": null,
+            "available": true,
+            "unavailableReason": null
+        },
+        {
+            "slug": "hack-club-socks",
+            "name": "hack club socks",
+            "description": "so your toes can be just as hacker as you are. one size fits all!",
+            "kind": "physical",
+            "category": {
+                "slug": "merch",
+                "name": "merch"
+            },
+            "priceHours": 8,
+            "priceRangeHours": {
+                "min": 8,
+                "max": 8,
+                "varies": false
+            },
+            "imageUrl": "https://cdn.hackclub.com/01a0a876-46d5-7947-9402-4125d1b1bc88/socks.png",
+            "images": [],
+            "stock": null,
+            "perUserLimit": null,
+            "requiresEligibility": true,
+            "pinned": false,
+            "options": [],
+            "availableFrom": null,
+            "availableUntil": null,
+            "available": true,
+            "unavailableReason": null
+        },
+        {
+            "slug": "hades-2",
+            "name": "hades 2",
+            "description": "the sequel to hades, and an even more elaborate action roguelike with an incredible story!",
+            "kind": "digital",
+            "category": {
+                "slug": "games",
+                "name": "games"
+            },
+            "priceHours": 8,
+            "priceRangeHours": {
+                "min": 8,
+                "max": 8,
+                "varies": false
+            },
+            "imageUrl": "https://cdn.hackclub.com/01a0c1c2-0cf4-7065-a884-164e2c6e1ad3/image.png",
+            "images": [],
+            "stock": null,
+            "perUserLimit": null,
+            "requiresEligibility": true,
+            "pinned": false,
+            "options": [],
+            "availableFrom": null,
+            "availableUntil": null,
+            "available": true,
+            "unavailableReason": null
+        },
+        {
+            "slug": "github-keycaps",
+            "name": "github keycaps",
+            "description": "maybe you will finally write commit messages now",
+            "kind": "physical",
+            "category": {
+                "slug": "merch",
+                "name": "merch"
+            },
+            "priceHours": 12,
+            "priceRangeHours": {
+                "min": 12,
+                "max": 12,
+                "varies": false
+            },
+            "imageUrl": "https://cdn.hackclub.com/01a0a876-3abb-7c62-9f9e-e73a0b3e3782/keycaps.png",
+            "images": [],
+            "stock": null,
+            "perUserLimit": null,
+            "requiresEligibility": true,
+            "pinned": false,
+            "options": [],
+            "availableFrom": null,
+            "availableUntil": null,
+            "available": true,
+            "unavailableReason": null
+        },
+        {
+            "slug": "cmf-buds-2-plus",
+            "name": "cmf buds 2 plus",
+            "description": "these are actually crazy good earbuds for the price",
+            "kind": "physical",
+            "category": {
+                "slug": "tech",
+                "name": "tech"
+            },
+            "priceHours": 15,
+            "priceRangeHours": {
+                "min": 15,
+                "max": 15,
+                "varies": false
+            },
+            "imageUrl": "https://cdn.hackclub.com/01a09efb-ce51-77ef-b7f3-55cc717e4ead/image.png",
+            "images": [],
+            "stock": null,
+            "perUserLimit": null,
+            "requiresEligibility": true,
+            "pinned": false,
+            "options": [
+                {
+                    "type": "select",
+                    "key": "color",
+                    "label": "color",
+                    "required": true,
+                    "choices": [
+                        {
+                            "value": "blue",
+                            "label": "blue",
+                            "image": null,
+                            "extraHours": 0
+                        },
+                        {
+                            "value": "lightgrey",
+                            "label": "light grey",
+                            "image": null,
+                            "extraHours": 0
+                        }
+                    ]
+                }
+            ],
+            "availableFrom": null,
+            "availableUntil": null,
+            "available": true,
+            "unavailableReason": null
+        },
+        {
+            "slug": "instax-mini-12",
+            "name": "instax mini 12 instant camera",
+            "description": "so you can take photos at phantom!",
+            "kind": "physical",
+            "category": {
+                "slug": "tech",
+                "name": "tech"
+            },
+            "priceHours": 24,
+            "priceRangeHours": {
+                "min": 24,
+                "max": 32,
+                "varies": true
+            },
+            "imageUrl": "https://cdn.hackclub.com/01a0c007-298d-7245-b819-fd559a159836/instax-mini-12-pastel_blue.png",
+            "images": [
+                "https://cdn.hackclub.com/01a0c007-298d-7245-b819-fd559a159836/instax-mini-12-pastel_blue.png",
+                "https://cdn.hackclub.com/01a0c007-2cbd-70a0-bfc0-0035b71f1483/instax-mini-12-blossom_pink.png",
+                "https://cdn.hackclub.com/01a0c007-2fbe-7a98-ad70-758a0e4f52a6/instax-mini-12-lilac_purple.png",
+                "https://cdn.hackclub.com/01a0c007-aa24-75d6-8e1f-126a6995e21a/instax-mini-12-mint_green.png"
+            ],
+            "stock": null,
+            "perUserLimit": null,
+            "requiresEligibility": true,
+            "pinned": false,
+            "options": [
+                {
+                    "type": "select",
+                    "key": "film",
+                    "label": "film",
+                    "required": true,
+                    "choices": [
+                        {
+                            "value": "20",
+                            "label": "20 shots (included)",
+                            "image": null,
+                            "extraHours": 0
+                        },
+                        {
+                            "value": "60",
+                            "label": "60 shots",
+                            "image": null,
+                            "extraHours": 8
+                        }
+                    ]
+                },
+                {
+                    "type": "select",
+                    "key": "color",
+                    "label": "color",
+                    "required": true,
+                    "choices": [
+                        {
+                            "value": "pastel_blue",
+                            "label": "pastel blue",
+                            "image": "https://cdn.hackclub.com/01a0c007-298d-7245-b819-fd559a159836/instax-mini-12-pastel_blue.png",
+                            "extraHours": 0
+                        },
+                        {
+                            "value": "blossom_pink",
+                            "label": "blossom pink",
+                            "image": "https://cdn.hackclub.com/01a0c007-2cbd-70a0-bfc0-0035b71f1483/instax-mini-12-blossom_pink.png",
+                            "extraHours": 0
+                        },
+                        {
+                            "value": "lilac_purple",
+                            "label": "lilac purple",
+                            "image": "https://cdn.hackclub.com/01a0c007-2fbe-7a98-ad70-758a0e4f52a6/instax-mini-12-lilac_purple.png",
+                            "extraHours": 0
+                        },
+                        {
+                            "value": "mint_green",
+                            "label": "mint green",
+                            "image": "https://cdn.hackclub.com/01a0c007-aa24-75d6-8e1f-126a6995e21a/instax-mini-12-mint_green.png",
+                            "extraHours": 0
+                        },
+                        {
+                            "value": "clay_white",
+                            "label": "clay white",
+                            "image": null,
+                            "extraHours": 0
+                        }
+                    ]
+                }
+            ],
+            "availableFrom": null,
+            "availableUntil": null,
+            "available": true,
+            "unavailableReason": null
+        },
+        {
+            "slug": "steam-license",
+            "name": "steam license",
+            "description": "now you too can make two cents on steam",
+            "kind": "digital",
+            "category": {
+                "slug": "grants",
+                "name": "grants"
+            },
+            "priceHours": 25,
+            "priceRangeHours": {
+                "min": 25,
+                "max": 25,
+                "varies": false
+            },
+            "imageUrl": "https://cdn.hackclub.com/01a09e10-e9bc-778c-8a83-5ab10efd4e16/image.png",
+            "images": [],
+            "stock": null,
+            "perUserLimit": null,
+            "requiresEligibility": true,
+            "pinned": false,
+            "options": [],
+            "availableFrom": null,
+            "availableUntil": null,
+            "available": true,
+            "unavailableReason": null
+        },
+        {
+            "slug": "8bitdo-retro-keyboard",
+            "name": "8bitdo retro mechanical keyboard",
+            "description": "sana's keyboard of choice!",
+            "kind": "physical",
+            "category": {
+                "slug": "tech",
+                "name": "tech"
+            },
+            "priceHours": 35,
+            "priceRangeHours": {
+                "min": 35,
+                "max": 35,
+                "varies": false
+            },
+            "imageUrl": "https://cdn.hackclub.com/01a0a889-f597-7c78-bae0-b07b003a6445/8b-n.png",
+            "images": [
+                "https://cdn.hackclub.com/01a0a889-f7f1-7d87-a85f-907a3db94d9e/8b-fami.png",
+                "https://cdn.hackclub.com/01a0a889-fa98-7ff2-9515-75b8ee28a83d/8b-m.png",
+                "https://cdn.hackclub.com/01a0a889-fd0a-75ac-9433-086d7deb2d3a/8b-clear.png"
+            ],
+            "stock": null,
+            "perUserLimit": null,
+            "requiresEligibility": true,
+            "pinned": false,
+            "options": [
+                {
+                    "type": "select",
+                    "key": "edition",
+                    "label": "edition",
+                    "required": true,
+                    "choices": [
+                        {
+                            "value": "n",
+                            "label": "n edition",
+                            "image": "https://cdn.hackclub.com/01a0a889-f597-7c78-bae0-b07b003a6445/8b-n.png",
+                            "extraHours": 0
+                        },
+                        {
+                            "value": "fami",
+                            "label": "fami edition",
+                            "image": "https://cdn.hackclub.com/01a0a889-f7f1-7d87-a85f-907a3db94d9e/8b-fami.png",
+                            "extraHours": 0
+                        },
+                        {
+                            "value": "m",
+                            "label": "m edition",
+                            "image": "https://cdn.hackclub.com/01a0a889-fa98-7ff2-9515-75b8ee28a83d/8b-m.png",
+                            "extraHours": 0
+                        },
+                        {
+                            "value": "clear_blue",
+                            "label": "clear blue",
+                            "image": "https://cdn.hackclub.com/01a0a889-fd0a-75ac-9433-086d7deb2d3a/8b-clear.png",
+                            "extraHours": 0
+                        }
+                    ]
+                }
+            ],
+            "availableFrom": null,
+            "availableUntil": null,
+            "available": true,
+            "unavailableReason": null
+        },
+        {
+            "slug": "evoworks-evo80",
+            "name": "evoworks evo80",
+            "description": "stelle's keyboard of choice. she says it sounds \"creamy,\" whatever that means",
+            "kind": "physical",
+            "category": {
+                "slug": "tech",
+                "name": "tech"
+            },
+            "priceHours": 45,
+            "priceRangeHours": {
+                "min": 45,
+                "max": 45,
+                "varies": false
+            },
+            "imageUrl": "https://cdn.hackclub.com/01a0a8c6-19d8-7366-bbfb-0c4f73220218/evo80-ink.png",
+            "images": [
+                "https://cdn.hackclub.com/01a0a8c6-241d-7ce2-91d7-efe312ee2d82/evo80-tyrian.png",
+                "https://cdn.hackclub.com/01a0a8c6-1e23-7e26-aec1-38fb41d7d6dd/evo80-sandgold.png",
+                "https://cdn.hackclub.com/01a0a8c6-2072-7968-b97b-b08ac3731e34/evo80-scarlet.png",
+                "https://cdn.hackclub.com/01a0a8c6-1b9b-79d5-9f3f-0fffa4042cd0/evo80-nimbus.png",
+                "https://cdn.hackclub.com/01a0a8c6-15c0-7500-9bb4-a9089b4495a7/evo80-cream.png",
+                "https://cdn.hackclub.com/01a0a8c6-1365-7835-9ea5-791c679fdab0/evo80-butter-yellow.png",
+                "https://cdn.hackclub.com/01a0a8c6-10aa-7522-aebe-b0433aa665b6/evo80-baby-pink.png",
+                "https://cdn.hackclub.com/01a0a8c6-17ca-7f97-be8a-caf46ee3ff7b/evo80-iceberg.png"
+            ],
+            "stock": null,
+            "perUserLimit": null,
+            "requiresEligibility": true,
+            "pinned": false,
+            "options": [
+                {
+                    "type": "select",
+                    "key": "color",
+                    "label": "color",
+                    "required": true,
+                    "choices": [
+                        {
+                            "value": "ink",
+                            "label": "ink",
+                            "image": "https://cdn.hackclub.com/01a0a8c6-19d8-7366-bbfb-0c4f73220218/evo80-ink.png",
+                            "extraHours": 0
+                        },
+                        {
+                            "value": "tyrian",
+                            "label": "tyrian",
+                            "image": "https://cdn.hackclub.com/01a0a8c6-241d-7ce2-91d7-efe312ee2d82/evo80-tyrian.png",
+                            "extraHours": 0
+                        },
+                        {
+                            "value": "sandgold",
+                            "label": "sandgold",
+                            "image": "https://cdn.hackclub.com/01a0a8c6-1e23-7e26-aec1-38fb41d7d6dd/evo80-sandgold.png",
+                            "extraHours": 0
+                        },
+                        {
+                            "value": "scarlet",
+                            "label": "scarlet",
+                            "image": "https://cdn.hackclub.com/01a0a8c6-2072-7968-b97b-b08ac3731e34/evo80-scarlet.png",
+                            "extraHours": 0
+                        },
+                        {
+                            "value": "nimbus",
+                            "label": "nimbus",
+                            "image": "https://cdn.hackclub.com/01a0a8c6-1b9b-79d5-9f3f-0fffa4042cd0/evo80-nimbus.png",
+                            "extraHours": 0
+                        },
+                        {
+                            "value": "spark",
+                            "label": "spark",
+                            "image": "https://cdn.hackclub.com/01a0a8c6-225d-7897-8743-9cac8493b4a9/evo80-spark.png",
+                            "extraHours": 0
+                        },
+                        {
+                            "value": "cream",
+                            "label": "cream",
+                            "image": "https://cdn.hackclub.com/01a0a8c6-15c0-7500-9bb4-a9089b4495a7/evo80-cream.png",
+                            "extraHours": 0
+                        },
+                        {
+                            "value": "butter_yellow",
+                            "label": "butter yellow",
+                            "image": "https://cdn.hackclub.com/01a0a8c6-1365-7835-9ea5-791c679fdab0/evo80-butter-yellow.png",
+                            "extraHours": 0
+                        },
+                        {
+                            "value": "baby_pink",
+                            "label": "baby pink",
+                            "image": "https://cdn.hackclub.com/01a0a8c6-10aa-7522-aebe-b0433aa665b6/evo80-baby-pink.png",
+                            "extraHours": 0
+                        },
+                        {
+                            "value": "iceberg",
+                            "label": "iceberg",
+                            "image": "https://cdn.hackclub.com/01a0a8c6-17ca-7f97-be8a-caf46ee3ff7b/evo80-iceberg.png",
+                            "extraHours": 0
+                        }
+                    ]
+                }
+            ],
+            "availableFrom": null,
+            "availableUntil": null,
+            "available": true,
+            "unavailableReason": null
+        },
+        {
+            "slug": "flipper",
+            "name": "flipper zero",
+            "description": "hack the planet!",
+            "kind": "physical",
+            "category": {
+                "slug": "tech",
+                "name": "tech"
+            },
+            "priceHours": 50,
+            "priceRangeHours": {
+                "min": 50,
+                "max": 50,
+                "varies": false
+            },
+            "imageUrl": "https://cdn.hackclub.com/01a09e25-4823-781e-a2e8-42591f5c5680/product_flipper-zero_1.webp",
+            "images": [],
+            "stock": null,
+            "perUserLimit": null,
+            "requiresEligibility": true,
+            "pinned": false,
+            "options": [],
+            "availableFrom": null,
+            "availableUntil": null,
+            "available": true,
+            "unavailableReason": null
+        },
+        {
+            "slug": "invite",
+            "name": "invite to phantom",
+            "description": "your ticket to hack club's first-ever escape room hackathon.",
+            "kind": "physical",
+            "category": null,
+            "priceHours": 50,
+            "priceRangeHours": {
+                "min": 50,
+                "max": 50,
+                "varies": false
+            },
+            "imageUrl": null,
+            "images": [],
+            "stock": null,
+            "perUserLimit": 1,
+            "requiresEligibility": true,
+            "pinned": true,
+            "options": [],
+            "availableFrom": null,
+            "availableUntil": null,
+            "available": true,
+            "unavailableReason": null
+        },
+        {
+            "slug": "airpods-pro-3",
+            "name": "airpods pro 3",
+            "description": "the ANC is really good! idk why but it can also sense your heart rate",
+            "kind": "physical",
+            "category": {
+                "slug": "tech",
+                "name": "tech"
+            },
+            "priceHours": 62,
+            "priceRangeHours": {
+                "min": 62,
+                "max": 62,
+                "varies": false
+            },
+            "imageUrl": "https://cdn.hackclub.com/01a0c007-24e1-7303-a9a4-1de83c8c9bd7/airpods-pro-3.png",
+            "images": [],
+            "stock": null,
+            "perUserLimit": null,
+            "requiresEligibility": true,
+            "pinned": false,
+            "options": [
+                {
+                    "type": "text",
+                    "key": "engraving",
+                    "label": "engraving on the case (optional)",
+                    "required": false,
+                    "maxLength": 20
+                }
+            ],
+            "availableFrom": null,
+            "availableUntil": null,
+            "available": true,
+            "unavailableReason": null
+        },
+        {
+            "slug": "bambu-a1-mini",
+            "name": "bambu lab a1 mini",
+            "description": "now with 100% less overheating!*\n*this claim was not verified by the phantom team",
+            "kind": "physical",
+            "category": {
+                "slug": "tech",
+                "name": "tech"
+            },
+            "priceHours": 75,
+            "priceRangeHours": {
+                "min": 75,
+                "max": 75,
+                "varies": false
+            },
+            "imageUrl": "https://cdn.hackclub.com/01a0a8cc-0454-74f8-8ef8-5ca6d8dd062b/a1mini.png",
+            "images": [],
+            "stock": null,
+            "perUserLimit": 1,
+            "requiresEligibility": true,
+            "pinned": false,
+            "options": [],
+            "availableFrom": null,
+            "availableUntil": null,
+            "available": true,
+            "unavailableReason": null
+        },
+        {
+            "slug": "macbook-neo",
+            "name": "macbook neo",
+            "description": "ts kinda peak im ngl",
+            "kind": "physical",
+            "category": {
+                "slug": "tech",
+                "name": "tech"
+            },
+            "priceHours": 150,
+            "priceRangeHours": {
+                "min": 150,
+                "max": 150,
+                "varies": false
+            },
+            "imageUrl": "https://cdn.hackclub.com/01a0a883-d318-7240-9296-05b6e97e4411/neo-citrus.png",
+            "images": [
+                "https://cdn.hackclub.com/01a0a883-cc19-78b3-8f1d-4c7dd10c1ac8/neo-silver.png",
+                "https://cdn.hackclub.com/01a0a883-cec2-7041-bc4e-80ec6466d8b3/neo-blush.png",
+                "https://cdn.hackclub.com/01a0a883-d0bc-71cc-9b87-64227b71e7db/neo-indigo.png",
+                "https://cdn.hackclub.com/01a0a883-d318-7240-9296-05b6e97e4411/neo-citrus.png"
+            ],
+            "stock": null,
+            "perUserLimit": 1,
+            "requiresEligibility": true,
+            "pinned": false,
+            "options": [
+                {
+                    "type": "select",
+                    "key": "color",
+                    "label": "color",
+                    "required": true,
+                    "choices": [
+                        {
+                            "value": "silver",
+                            "label": "silver",
+                            "image": "https://cdn.hackclub.com/01a0a883-cc19-78b3-8f1d-4c7dd10c1ac8/neo-silver.png",
+                            "extraHours": 0
+                        },
+                        {
+                            "value": "blush",
+                            "label": "blush",
+                            "image": "https://cdn.hackclub.com/01a0a883-cec2-7041-bc4e-80ec6466d8b3/neo-blush.png",
+                            "extraHours": 0
+                        },
+                        {
+                            "value": "indigo",
+                            "label": "indigo",
+                            "image": "https://cdn.hackclub.com/01a0a883-d0bc-71cc-9b87-64227b71e7db/neo-indigo.png",
+                            "extraHours": 0
+                        },
+                        {
+                            "value": "citrus",
+                            "label": "citrus",
+                            "image": "https://cdn.hackclub.com/01a0a883-d318-7240-9296-05b6e97e4411/neo-citrus.png",
+                            "extraHours": 0
+                        }
+                    ]
+                }
+            ],
+            "availableFrom": null,
+            "availableUntil": null,
+            "available": true,
+            "unavailableReason": null
+        },
+        {
+            "slug": "fursuit",
+            "name": "fursuit",
+            "description": "$750 grant so i don't have \"fursuit\" in my search history",
+            "kind": "digital",
+            "category": {
+                "slug": "merch",
+                "name": "merch"
+            },
+            "priceHours": 180,
+            "priceRangeHours": {
+                "min": 180,
+                "max": 180,
+                "varies": false
+            },
+            "imageUrl": "https://cdn.hackclub.com/019db782-d7b0-7b61-ad64-06fa8b1d9ddb/image-removebg-preview.png",
+            "images": [],
+            "stock": null,
+            "perUserLimit": null,
+            "requiresEligibility": true,
+            "pinned": false,
+            "options": [],
+            "availableFrom": null,
+            "availableUntil": null,
+            "available": true,
+            "unavailableReason": null
+        },
+        {
+            "slug": "ipad-air-11",
+            "name": "11-inch ipad air",
+            "description": "imagine an iphone but like, bigger",
+            "kind": "physical",
+            "category": {
+                "slug": "tech",
+                "name": "tech"
+            },
+            "priceHours": 190,
+            "priceRangeHours": {
+                "min": 190,
+                "max": 190,
+                "varies": false
+            },
+            "imageUrl": "https://cdn.hackclub.com/01a0a876-3800-74fc-aaba-eacb11a4b926/ipad.png",
+            "images": [],
+            "stock": null,
+            "perUserLimit": null,
+            "requiresEligibility": true,
+            "pinned": false,
+            "options": [
+                {
+                    "type": "select",
+                    "key": "color",
+                    "label": "color",
+                    "required": true,
+                    "choices": [
+                        {
+                            "value": "space_gray",
+                            "label": "space gray",
+                            "image": null,
+                            "extraHours": 0
+                        },
+                        {
+                            "value": "starlight",
+                            "label": "starlight",
+                            "image": null,
+                            "extraHours": 0
+                        },
+                        {
+                            "value": "purple",
+                            "label": "purple",
+                            "image": null,
+                            "extraHours": 0
+                        },
+                        {
+                            "value": "blue",
+                            "label": "blue",
+                            "image": null,
+                            "extraHours": 0
+                        }
+                    ]
+                }
+            ],
+            "availableFrom": null,
+            "availableUntil": null,
+            "available": true,
+            "unavailableReason": null
+        },
+        {
+            "slug": "macbook-air-m5",
+            "name": "macbook air (m5)",
+            "description": "apple m5, 16gb unified memory, 512gb ssd. it's reeeeal nice.",
+            "kind": "physical",
+            "category": {
+                "slug": "tech",
+                "name": "tech"
+            },
+            "priceHours": 325,
+            "priceRangeHours": {
+                "min": 325,
+                "max": 375,
+                "varies": true
+            },
+            "imageUrl": "https://cdn.hackclub.com/01a0bc5b-ef7e-7052-82bc-a18cc161621a/macbook-air-m5-lid-skyblue.png",
+            "images": [
+                "https://cdn.hackclub.com/01a0bc5b-ef7e-7052-82bc-a18cc161621a/macbook-air-m5-lid-skyblue.png",
+                "https://cdn.hackclub.com/01a0bc5b-e760-7466-b3ac-b0e2cf27e48f/macbook-air-m5-lid-midnight.png",
+                "https://cdn.hackclub.com/01a0bc5b-ea66-7152-b4a2-356e99648aa1/macbook-air-m5-lid-starlight.png",
+                "https://cdn.hackclub.com/01a0bc5b-ecc6-715a-be16-4b90961cfb9a/macbook-air-m5-lid-silver.png"
+            ],
+            "stock": null,
+            "perUserLimit": null,
+            "requiresEligibility": true,
+            "pinned": false,
+            "options": [
+                {
+                    "type": "select",
+                    "key": "size",
+                    "label": "size",
+                    "required": true,
+                    "choices": [
+                        {
+                            "value": "thirteen",
+                            "label": "13-inch",
+                            "image": null,
+                            "extraHours": 0
+                        },
+                        {
+                            "value": "fifteen",
+                            "label": "15-inch",
+                            "image": null,
+                            "extraHours": 50
+                        }
+                    ]
+                },
+                {
+                    "type": "select",
+                    "key": "color",
+                    "label": "color",
+                    "required": true,
+                    "choices": [
+                        {
+                            "value": "sky_blue",
+                            "label": "sky blue",
+                            "image": "https://cdn.hackclub.com/01a0bc5b-ef7e-7052-82bc-a18cc161621a/macbook-air-m5-lid-skyblue.png",
+                            "extraHours": 0
+                        },
+                        {
+                            "value": "midnight",
+                            "label": "midnight",
+                            "image": "https://cdn.hackclub.com/01a0bc5b-e760-7466-b3ac-b0e2cf27e48f/macbook-air-m5-lid-midnight.png",
+                            "extraHours": 0
+                        },
+                        {
+                            "value": "starlight",
+                            "label": "starlight",
+                            "image": "https://cdn.hackclub.com/01a0bc5b-ea66-7152-b4a2-356e99648aa1/macbook-air-m5-lid-starlight.png",
+                            "extraHours": 0
+                        },
+                        {
+                            "value": "silver",
+                            "label": "silver",
+                            "image": "https://cdn.hackclub.com/01a0bc5b-ecc6-715a-be16-4b90961cfb9a/macbook-air-m5-lid-silver.png",
+                            "extraHours": 0
+                        }
+                    ]
+                }
+            ],
+            "availableFrom": null,
+            "availableUntil": null,
+            "available": true,
+            "unavailableReason": null
+        },
+        {
+            "slug": "framework-13",
+            "name": "framework laptop 13",
+            "description": "ryzen ai 5, 16gb ram, 500gb storage. no os included... use linux!!!",
+            "kind": "physical",
+            "category": {
+                "slug": "tech",
+                "name": "tech"
+            },
+            "priceHours": 375,
+            "priceRangeHours": {
+                "min": 375,
+                "max": 375,
+                "varies": false
+            },
+            "imageUrl": "https://cdn.hackclub.com/01a0a876-3398-74fe-b597-189776b19ab3/framework.png",
+            "images": [],
+            "stock": null,
+            "perUserLimit": null,
+            "requiresEligibility": true,
+            "pinned": false,
+            "options": [],
+            "availableFrom": null,
+            "availableUntil": null,
+            "available": true,
+            "unavailableReason": null
+        }
+    ]
+}
